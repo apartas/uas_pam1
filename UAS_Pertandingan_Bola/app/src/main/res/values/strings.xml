@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">KotlinSub2</string>
+    <string name="app_name">Kotlin</string>
 
     <!--String di item event-->
     <string name="tanggal">Tanggal</string>
